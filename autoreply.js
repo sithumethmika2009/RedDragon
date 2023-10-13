@@ -59,7 +59,7 @@ const autoReply = (msg) => {
     if(msg.match(/දෙන්න|දාන්න|dahn|dapan|dapn|දාපං|දීපං|දීපන්|dipn|dipan|dahn/gi)){
         R = "😏බෑ..."
     }
-    if(msg.match(/plala|ply|පල|පල යන්න/gi)){
+    if(msg.match(/plala|ply|පල|පලඃ/gi)){
         R = "😏එහෙමතේ"
     }
     if(msg.match(/කාලද|kalad/gi)){
